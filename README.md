@@ -2,6 +2,11 @@
 
 This is a repository of scripts to make [HAROS](https://github.com/git-afsantos/haros) installation and setup easier.
 
+## Using HAROS with Docker
+
+See the [docker directory](https://github.com/git-afsantos/make-haros-easy/tree/main/docker).  
+For a manual installation, keep reading.
+
 ## Installing HAROS
 
 Under [install](./install) you will find step-by-step scripts to install HAROS.
